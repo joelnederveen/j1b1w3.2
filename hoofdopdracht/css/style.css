@@ -1,0 +1,28 @@
+body{background:lightblue;
+
+font-size: 25px;}
+
+body{
+	text-align:center;
+}
+img{ 
+	border:2px solid #000000;
+	margin:15px;
+	height: 25%;
+	width: 25%;
+	}
+
+li {
+	display: inline-block;
+	padding: 0px 15px;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: red;
+} 

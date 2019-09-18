@@ -1,0 +1,13 @@
+body{background:lightblue;
+
+font-size: 25px;}
+
+/*img.vloot1 {border:2px solid #000000; margin:15px; float:left;}*/
+img.vloot2 {border:2px solid #000000; margin:15px; float:right;}
+img.vloot3 {border:2px solid #000000; margin:15px; float:left;}
+
+img[src="images/vloot1.jpg"] { 
+	border:2px solid #000000;
+	margin:15px;
+	float:left;
+}
